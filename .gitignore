@@ -1,0 +1,13 @@
+# Files
+*.db
+*.pyc
+
+# Directories
+venv/
+flxroc/data/
+flxroc/modules/clients/
+
+# Test configs
+.coveralls.yaml
+.coverage
+.coveragerc
